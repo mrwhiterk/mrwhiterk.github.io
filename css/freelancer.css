@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Freelancer v5.0.1 (https://startbootstrap.com/template-overviews/freelancer)
- * Copyright 2013-2018 Start Bootstrap
+ * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */
 
@@ -381,9 +381,4 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
-}
-
-#main-img {
-  height: 200px;
-  width: auto;
 }
